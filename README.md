@@ -2,4 +2,4 @@
 
 ![](prayuthspeaks.jpg)
 
-![](output.png)
+![](./images/output.png)
